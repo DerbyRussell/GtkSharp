@@ -20,8 +20,9 @@ Pre requirements for building from source are that you have .Net 6 installed on 
 To build the repository, simply do:
 
 ```sh
-git clone https://github.com/GtkSharp/GtkSharp.git
+git clone https://github.com/DerbyRussell/GtkSharp.git
 cd GtkSharp
+git switch derby-gtk3-integration
 dotnet tool restore
 dotnet cake build.cake
 ```
