@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageProjectUrl>https://github.com/GtkSharp/GtkSharp</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/GtkSharp/GtkSharp</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/DerbyRussell/GtkSharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/DerbyRussell/GtkSharp</RepositoryUrl>
   </PropertyGroup>
 </Project>
